@@ -1,0 +1,4 @@
+# Use siunitx for units
+text.usetex : True
+
+text.latex.preamble :\usepackage{amsmath} \usepackage{amssymb} \usepackage{siunitx}
